@@ -1,0 +1,54 @@
+[
+  { "title": "Median American Net Worth", "money": 192700, "color": "#7ca3a2", "max": 10 },
+  { "title": "Average American Net Worth", "money": 748800, "color": "#7ca3a2", "max": 10 },
+  { "title": "Average American Salary", "money": 63790, "color": "#7ca3a2", "max": 10 },
+  { "title": "Federal Minimum Wage Income (Annual)", "money": 15080, "color": "#7ca3a2", "max": 10 },
+  { "title": "Poverty Line Income (Annual)", "money": 14580, "color": "#7ca3a2", "max": 10 },
+  { "title": "Typical Student Debt", "money": 37000, "color": "#b97fbf", "max": 10 },
+  { "title": "Median Retirement Savings", "money": 87000, "color": "#7ca3a2", "max": 10 },
+  { "title": "Typical Annual Rent", "money": 18000, "color": "#7ca3a2", "max": 10 },
+  { "title": "Cost of Raising a Child to 18", "money": 310000, "color": "#7ca3a2", "max": 10 },
+
+  { "title": "Elon Musk's Net Worth", "money": 474000000000, "color": "gold", "max": 3 },
+  { "title": "Jeff Bezos' Net Worth", "money": 204000000000, "color": "gold", "max": 3 },
+  { "title": "Warren Buffett's Net Worth", "money": 136000000000, "color": "gold", "max": 3 },
+  { "title": "Mark Zuckerberg's Net Worth", "money": 163000000000, "color": "gold", "max": 3 },
+
+  { "title": "Apple's Market Cap", "money": 2800000000000, "color": "#c0c0c0", "max": 2 },
+  { "title": "Amazon's Market Cap", "money": 1900000000000, "color": "#c0c0c0", "max": 2 },
+  { "title": "Walmart's Revenue", "money": 648000000000, "color": "#c0c0c0", "max": 5 },
+
+  { "title": "Average Fortune 500 CEO Pay", "money": 16700000, "color": "#cc0000", "max": 10 },
+
+  { "title": "U.S. Government Spending 2024", "money": 6750000000000, "color": "#efe1dc", "max": 1 },
+  { "title": "U.S. Military Budget 2024", "money": 997000000000, "color": "#f14e2d", "max": 2 },
+  { "title": "U.S. Education Budget 2024", "money": 96000000000, "color": "#6c9edc", "max": 5 },
+  { "title": "NASA Budget 2024", "money": 25400000000, "color": "#6586cb", "max": 5 },
+  { "title": "Social Security Spending", "money": 1300000000000, "color": "#b5a8a8", "max": 2 },
+  { "title": "Medicare Spending", "money": 1100000000000, "color": "#b5a8a8", "max": 2 },
+  { "title": "SNAP Program (Food Stamps)", "money": 119000000000, "color": "#b5a8a8", "max": 5 },
+  { "title": "IRS Budget", "money": 14100000000, "color": "#999999", "max": 10 },
+
+  { "title": "Ukraine Aid (2022–2024)", "money": 113000000000, "color": "#a7d4f2", "max": 3 },
+
+  { "title": "Cost to End Homelessness in U.S.", "money": 40000000000, "color": "#77dd77", "max": 5 },
+  { "title": "Annual Public Housing Budget", "money": 70000000000, "color": "#77dd77", "max": 5 },
+  { "title": "Universal Pre-K (10 years)", "money": 200000000000, "color": "#77dd77", "max": 3 },
+  { "title": "Interstate Highway System (Modern $)", "money": 500000000000, "color": "#77dd77", "max": 2 },
+  { "title": "Green New Deal (10-year est.)", "money": 16000000000000, "color": "#009966", "max": 1 },
+
+  { "title": "Student Loan Forgiveness Plan", "money": 430000000000, "color": "#b97fbf", "max": 3 },
+  { "title": "Flint Water Crisis Cleanup", "money": 1500000000, "color": "#7ca3a2", "max": 10 },
+
+  { "title": "Global Billionaire Wealth", "money": 13700000000000, "color": "#ffcc00", "max": 1 },
+  { "title": "Total Global Wealth", "money": 500000000000000, "color": "#e2e2e2", "max": 1 },
+  { "title": "Global GDP", "money": 105000000000000, "color": "#c7d6f4", "max": 1 },
+  { "title": "U.S. GDP", "money": 27000000000000, "color": "#c7d6f4", "max": 1 },
+  { "title": "China's GDP", "money": 17000000000000, "color": "#f58d8d", "max": 1 },
+  { "title": "GDP of Poorest 50 Countries (Combined)", "money": 2000000000000, "color": "#aaa", "max": 1 },
+
+  { "title": "Top 1% U.S. Wealth Threshold", "money": 11100000, "color": "#cc0000", "max": 10 },
+  { "title": "Bottom 50% of Americans (Combined)", "money": 3700000000000, "color": "#888888", "max": 2 },
+  { "title": "Wealth of Top 10 Americans", "money": 1600000000000, "color": "#ff9900", "max": 3 },
+  { "title": "Wealth of All U.S. Billionaires", "money": 5200000000000, "color": "#ffcc00", "max": 2 }
+]
